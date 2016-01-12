@@ -1,0 +1,33 @@
+﻿Build started 2015/1/17 18:49:43.
+     1>Project "C:\Users\wanyi\documents\visual studio 2013\Projects\computer go 2.0\computer go 2.0\computer go 2.0.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\软件\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt model.cpp
+         model.cpp
+     1>c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(56): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(51) : definition of 'i' ignored
+                 c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(49) : definition of 'i' used
+     1>c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(58): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(51) : definition of 'i' ignored
+                 c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(49) : definition of 'i' used
+     1>c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(61): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(51) : definition of 'i' ignored
+                 c:\users\wanyi\documents\visual studio 2013\projects\computer go 2.0\computer go 2.0\model.cpp(49) : definition of 'i' used
+       Link:
+         E:\软件\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wanyi\documents\visual studio 2013\Projects\computer go 2.0\Debug\computer go 2.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\wanyi\documents\visual studio 2013\Projects\computer go 2.0\Debug\computer go 2.0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wanyi\documents\visual studio 2013\Projects\computer go 2.0\Debug\computer go 2.0.lib" /MACHINE:X86 "Debug\alpha-beta-search.obj"
+         Debug\block.obj
+         Debug\block_combine_and_split.obj
+         Debug\board.obj
+         Debug\chain.obj
+         Debug\game2.obj
+         Debug\gtp.obj
+         Debug\interface.obj
+         Debug\model.obj
+         Debug\montecarlo.obj
+         Debug\new_evaluation.obj
+         Debug\stone.obj
+         computer go 2.0.vcxproj -> C:\Users\wanyi\documents\visual studio 2013\Projects\computer go 2.0\Debug\computer go 2.0.exe
+     1>Done Building Project "C:\Users\wanyi\documents\visual studio 2013\Projects\computer go 2.0\computer go 2.0\computer go 2.0.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21

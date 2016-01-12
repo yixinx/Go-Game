@@ -1,0 +1,340 @@
+play B q 16
+showboard
+play B d 4
+showboard
+play B q 4
+showboard
+play W e 17
+showboard
+play B c 16
+showboard
+play W r 14
+showboard
+play B o 16
+showboard
+play W d 15
+showboard
+play B c 15
+showboard
+play W d 14
+showboard
+play B c 13
+showboard
+play W m 17
+showboard
+play B n 15
+showboard
+play W m 15
+showboard
+play B m 14
+showboard
+play W l 15
+showboard
+play B d 13
+showboard
+play W e 13
+showboard
+play B e 12
+showboard
+play W f 13
+showboard
+play B f 12
+showboard
+play W g 12
+showboard
+play B c 14
+showboard
+play W g 11
+showboard
+play B n 13
+showboard
+play W l 14
+showboard
+play B e 10
+showboard
+play W r 16
+showboard
+play B r 17
+showboard
+play W s 17
+showboard
+play B s 18
+showboard
+play W s 16
+showboard
+play B q 18
+showboard
+play W r 11
+showboard
+play B m 12
+showboard
+play W f 3
+showboard
+play B d 6
+showboard
+play W o 3
+showboard
+play B q 6
+showboard
+play W g 6
+showboard
+play B r 9
+showboard
+play W n 6
+showboard
+play B k 6
+showboard
+play W k 4
+showboard
+play B g 13
+showboard
+play W f 15
+showboard
+play B d 16
+showboard
+play W h 13
+showboard
+play B e 16
+showboard
+play W f 16
+showboard
+play B f 17
+showboard
+play W g 17
+showboard
+play B f 18
+showboard
+play W g 18
+showboard
+play B e 18
+showboard
+play W e 5
+showboard
+play B d 5
+showboard
+play W d 2
+showboard
+play B e 8
+showboard
+play W p 5
+showboard
+play B q 5
+showboard
+play W q 2
+showboard
+play B r 3
+showboard
+play W c 3
+showboard
+play B r 13
+showboard
+play W r 12
+showboard
+play B s 14
+showboard
+play W s 15
+showboard
+play B q 14
+showboard
+play W r 15
+showboard
+play B k 8
+showboard
+play W f 9
+showboard
+play B e 9
+showboard
+play W b 5
+showboard
+play B b 6
+showboard
+play W d 18
+showboard
+play B d 17
+showboard
+play W e 19
+showboard
+play B f 19
+showboard
+play W g 19
+showboard
+play B d 19
+showboard
+play W c 5
+showboard
+play B c 6
+showboard
+play W k 5
+showboard
+play B k 3
+showboard
+play W l 6
+showboard
+play B f 2
+showboard
+play W g 3
+showboard
+play B e 2
+showboard
+play W e 3
+showboard
+play B d 3
+showboard
+play W b 2
+showboard
+play B d 1
+showboard
+play W c 2
+showboard
+play B n 3
+showboard
+play W o 2
+showboard
+play B n 2
+showboard
+play W l 3
+showboard
+play B j 3
+showboard
+play W l 2
+showboard
+play B m 4
+showboard
+play W n 4
+showboard
+play B l 4
+showboard
+play W l 5
+showboard
+play B o 4
+showboard
+play W n 5
+showboard
+play B g 2
+showboard
+play W h 3
+showboard
+play B h 2
+showboard
+play W j 4
+showboard
+play B k 1
+showboard
+play W k 2
+showboard
+play B j 2
+showboard
+play W m 5
+showboard
+play B c 4
+showboard
+play W b 4
+showboard
+play B a 2
+showboard
+play W a 3
+showboard
+play B b 1
+showboard
+play W a 1
+showboard
+play B m 3
+showboard
+play W n 1
+showboard
+play B a 2
+showboard
+play W e 1
+showboard
+play B f 1
+showboard
+play W a 1
+showboard
+play B l 1
+showboard
+play W m 2
+showboard
+play B a 2
+showboard
+play W q 15
+showboard
+play B p 15
+showboard
+play W q 13
+showboard
+play B g 16
+showboard
+play W h 16
+showboard
+play B c 1
+showboard
+play W a 1
+showboard
+play B g 15
+showboard
+play W e 1
+showboard
+play B g 14
+showboard
+play W h 15
+showboard
+play B e 15
+showboard
+play W h 14
+showboard
+play B f 14
+showboard
+play W l 11
+showboard
+play B g 8
+showboard
+play W h 8
+showboard
+play B m 9
+showboard
+play W q 9
+showboard
+play B q 8
+showboard
+play W p 8
+showboard
+play B p 9
+showboard
+play W q 10
+showboard
+play B q 7
+showboard
+play W n 10
+showboard
+play B n 9
+showboard
+play W o 10
+showboard
+play B o 7
+showboard
+play W p 17
+showboard
+play B o 17
+showboard
+play W p 14
+showboard
+play B p 18
+showboard
+play W o 8
+showboard
+play B o 9
+showboard
+play W n 8
+showboard
+play B h 9
+showboard
+play W m 8
+showboard
+play B l 9
+showboard
+play W g 9
+showboard
+play B h 7
+showboard
+play W f 8
+showboard

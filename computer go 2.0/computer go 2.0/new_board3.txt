@@ -1,0 +1,392 @@
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+genmove w
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard
+genmove b
+showboard
+genmove w
+showboard

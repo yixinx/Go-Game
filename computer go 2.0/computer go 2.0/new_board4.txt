@@ -1,0 +1,120 @@
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard
+genmove b
+showboard

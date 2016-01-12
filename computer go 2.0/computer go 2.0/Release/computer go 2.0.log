@@ -1,0 +1,29 @@
+﻿Build started 2015-01-18 16:46:56.
+     1>Project "C:\Users\Ray\Desktop\computer go 2.0\computer go 2.0\computer go 2.0\computer go 2.0.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt interface.cpp
+         interface.cpp
+     1>interface.cpp(156): warning C4101: 'out_stream' : unreferenced local variable
+     1>interface.cpp(170): warning C4273: 'GetSystemInfo' : inconsistent dll linkage
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(184) : see previous definition of 'GetSystemInfo'
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ray\Desktop\computer go 2.0\computer go 2.0\Release\computer go 2.0.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ray\Desktop\computer go 2.0\computer go 2.0\Release\computer go 2.0.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ray\Desktop\computer go 2.0\computer go 2.0\Release\computer go 2.0.lib" /MACHINE:X86 /SAFESEH "Release\alpha-beta-search.obj"
+         Release\block.obj
+         Release\block_combine_and_split.obj
+         Release\board.obj
+         Release\chain.obj
+         Release\game2.obj
+         Release\gtp.obj
+         Release\interface.obj
+         Release\model.obj
+         Release\montecarlo.obj
+         Release\new_evaluation.obj
+         Release\stone.obj
+         Generating code
+         Finished generating code
+         computer go 2.0.vcxproj -> C:\Users\Ray\Desktop\computer go 2.0\computer go 2.0\Release\computer go 2.0.exe
+     1>Done Building Project "C:\Users\Ray\Desktop\computer go 2.0\computer go 2.0\computer go 2.0\computer go 2.0.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.45
